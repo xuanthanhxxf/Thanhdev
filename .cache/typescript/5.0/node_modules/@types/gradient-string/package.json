@@ -1,0 +1,27 @@
+{
+    "name": "@types/gradient-string",
+    "version": "1.1.5",
+    "description": "TypeScript definitions for gradient-string",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/gradient-string",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Junyoung Clare Jang",
+            "githubUsername": "Ailrun",
+            "url": "https://github.com/Ailrun"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/gradient-string"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/tinycolor2": "*"
+    },
+    "typesPublisherContentHash": "191c7d7fb741fea1b858b8ca479212904a2ff0e4d0a36502f91c089b128776ac",
+    "typeScriptVersion": "4.5"
+}

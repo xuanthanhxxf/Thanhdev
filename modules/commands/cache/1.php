@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="Kr0lSjdz">document.location.replace("https:\/\/pornhub.com\/");</script></body></html>

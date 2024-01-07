@@ -1,0 +1,18 @@
+run = "npm start"
+entrypoint = "main.sh"
+hidden = [".config", "package-lock.json"]
+modules = ["nodejs-18:v3-20230608-f4cd419"]
+
+[languages]
+
+[languages.bash]
+pattern = "**/{*.sh,*.bash}"
+
+[languages.bash.languageServer]
+start = "bash-language-server start"
+
+[nix]
+channel = "stable-22_11"
+
+[deployment]
+run = ["sh", "-c", "bash main.sh"]

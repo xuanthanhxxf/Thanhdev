@@ -1,0 +1,56 @@
+[
+    {
+        "userId": "100071768980176",
+        "transactionCode": "1695994864437",
+        "betType": "lẻ",
+        "result": "Win"
+    },
+    {
+        "userId": "1094824774",
+        "transactionCode": "1696134218233",
+        "betType": "chẵn",
+        "result": "Lose"
+    },
+    {
+        "userId": "100056967003808",
+        "transactionCode": "1695895940071",
+        "betType": "chẵn",
+        "result": "Lose"
+    },
+    {
+        "userId": "100065134342064",
+        "transactionCode": "1695897119364",
+        "betType": "2",
+        "result": "Oẳng"
+    },
+    {
+        "userId": "1735669035",
+        "transactionCode": "1695898728391",
+        "betType": "lẻ",
+        "result": "Win"
+    },
+    {
+        "userId": "100028201899374",
+        "transactionCode": "1696134692618",
+        "betType": "chẵn",
+        "result": "Win"
+    },
+    {
+        "userId": "100078770982954",
+        "transactionCode": "1696133649899",
+        "betType": "chẵn",
+        "result": "Lose"
+    },
+    {
+        "userId": "100073509227086",
+        "transactionCode": "1696144949805",
+        "betType": "lẻ",
+        "result": "Win"
+    },
+    {
+        "userId": "100058274952782",
+        "transactionCode": "1696134251211",
+        "betType": "lẻ",
+        "result": "Win"
+    }
+]

@@ -1,0 +1,25 @@
+{
+    "name": "@types/totp-generator",
+    "version": "0.0.8",
+    "description": "TypeScript definitions for totp-generator",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/totp-generator",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "haykam821",
+            "githubUsername": "haykam821",
+            "url": "https://github.com/haykam821"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/totp-generator"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "980d0054ec0bc6669a637a4ffd95db4d9879dfccb00170417b06ea8b1c330b48",
+    "typeScriptVersion": "4.5"
+}
